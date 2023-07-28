@@ -1,0 +1,9 @@
+Bu haftanın Ödevleri
+1. Bir "GeometrikSekil" adlı üst sınıf oluşturun. Ardından "Dikdortgen" ve "Daire" adında iki alt sınıf oluşturun. Her alt sınıfın kendine özgü alan ve çevre hesaplayan işlevleri olsun. 
+(Dikdörtgen alan = uzunluk x genişlik, çevre = 2 x (uzunluk + genişlik), Daire alan = π x yarıçap x yarıçap, çevre = 2 x π x yarıçap) Not: ortak kullanılanlar GeometrikSeklin özelliği olacak
+2. Bir "Oyuncu" adlı üst sınıf oluşturun. Ardından "Futbolcu" ve "Basketbolcu" adında iki alt sınıf oluşturun. Her bir alt sınıfın kendine özgü özellikleri ve işlevleri olsun. Oyuncuların "oyna" işlevi olmalı.
+3. Bir "Personel" adlı sınıf oluşturun ve şirketteki personellerin özelliklerini (ad, soyad, pozisyon, maaş vb.) içeren nitelikleri ve "maasArttir" gibi işlevi ekleyin.
+4. https://www.hackerrank.com/domains/algorithms hackerranktan 2. algoritma sorusu çözülecek ve görseli iletilecek
+5.Bir "Kullanici" adlı sınıf oluşturun ve ad ve soyad gibi özellikleri içeren nullable özellikler tanımlayın. Kullanıcı adı ve soyadı null olabileceğini göz önünde bulundurarak bu özelliklere nasıl erişebilirsiniz?
+6. Null-safety'nin diğer programlama dilleriyle karşılaştırıldığında avantajları nelerdir? Kotlin'in null-safety özelliği neden diğer dillerden farklıdır?
+7. https://developer.android.com/codelabs/kotlin-bootcamp-basics#0 burası tamamlanacak ve içindeki ödevlerin cevaplarının görselleri çekilip iletilmeli 
