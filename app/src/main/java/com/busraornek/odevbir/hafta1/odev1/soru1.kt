@@ -1,5 +1,6 @@
 package com.busraornek.odevbir.hafta1.odev1
 
+
 import java.lang.Exception
 import java.util.Scanner
 
