@@ -1,0 +1,11 @@
+1.ConstraintLayout kullanarak basit bir ürün listesi tasarımını yapın. Her öğe, ürün resmi, ürün adı, ürün açıklaması, ürün fiyatı ve 
+"Şimdi Satın Al" butonu olmak üzere yatay olarak sıralayın.
+2.Medium yazısı yazılacak. Medium konusu Android Uygulama Geliştirme Temelleri: Proje Yapısı, Kullanıcı Arayüzü Tasarımı ve Resource Yönetimi
+3.https://developer.android.com/codelabs/kotlin-bootcamp-functions#0
+burası tamamlanacak ve içindeki ödevlerin cevaplarının görselleri çekilip iletilmeli
+4.https://gelecegiyazanlar.turkcell.com.tr/konu/egitim/kotlin-201/collections
+5.Asenkron olarak uzun süren bir işlemi gerçekleştiren thread oluşturuyoruz. Bu kodda, iki farklı thread oluşturacağız ve her biri uzun süreli bir 
+işlemi temsil edecek. İlk thread 5 saniye uyuyacak, ikinci thread ise 3 saniye uyuyacak. Ana thread, diğer threadler çalışırken devam edecek ve 
+tüm threadlerin bitmesini beklemek için 6 saniye uyuyacak.Bu şekilde, asenkron olarak uzun süren işlemler gerçekleştirsin
+6.ConstraintLayout kullanarak havadrumunu gösteren ekte iletiğim ekran görselini xml de tasarlayınız. Renkler ve görseller birebir aynı 
+olmak zorunda değildir .
