@@ -8,5 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         // setContentView(R.layout.activity_urun_tasarim)
         setContentView(R.layout.activity_hava_durumu)
+
     }
 }
